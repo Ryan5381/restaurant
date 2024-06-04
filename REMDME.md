@@ -1,0 +1,17 @@
+# My favorite Restaurants List
+
+List of my favorite restaurants
+
+## Features
+
+- Click on the restaurant and you can see more detailed restaurant information (including: phone number, address, and description)
+- Search for restaurant name or restaurant category
+
+## Future update direction
+
+- Manage restaurant list, including adding and deleting functions
+- Added login system
+
+### Searching
+
+Enter relevant information about the restaurant to search
